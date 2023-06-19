@@ -1,5 +1,5 @@
-connection: "looker__ilooker"
-
+# connection: "looker__ilooker"
+connection: "dd_lego"
 # include all the views
 include: "/views/**/*.view"
 
